@@ -91,15 +91,6 @@ A **goal tracking web app** to set, manage, and track progress toward personal g
 ### 🔗 [Salesforce Deployment Tool](https://sf-deployer.vercel.app/)  
 A tool for streamlining **Salesforce deployments**.  
 
-### 🔗 [EduPortal](https://github.com/nabeelahmed44m/EduPortal)  
-A responsive educational management system built with **React & Tailwind CSS**.  
-
-### 🔗 [Feedback-Lift](https://github.com/nabeelahmed44m/feedback-lift)  
-A **drag-and-drop form builder** with easy sharing and analytics.  
-
-### 🔗 [Low-Code Platform](https://github.com/nabeelahmed44m/low-code-platform)  
-A **low-code/no-code platform** for non-technical users.  
-
 ### 🔗 [Portfolio](https://nabeelcodes.vercel.app)  
 My **personal portfolio site** showcasing projects and skills — [nabeelcodes.vercel.app](https://nabeelcodes.vercel.app).
 
