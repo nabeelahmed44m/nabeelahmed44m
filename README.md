@@ -68,7 +68,7 @@ I’m a passionate **Full-Stack Engineer** building **modern, responsive, and sc
 
 ## 💼 Experience
 
-### 🏢 Devsinc – Associate Software Engineer
+### 🏢 Devsinc – Software Engineer I
 - Developed full-stack applications with **React.js, Next.js, Vue.js, Node.js, NestJS, Express.js, GraphQL, and MongoDB/PostgreSQL**  
 - Built **MERN stack applications** for enterprise solutions  
 - Worked extensively on **AWS services**: Lambda, Cognito, ECS, EC2, ECR, and CI/CD pipelines  
@@ -82,6 +82,15 @@ I’m a passionate **Full-Stack Engineer** building **modern, responsive, and sc
 
 ## 🚀 Projects
 
+### 🔗 [SnipSearch](https://chromewebstore.google.com/detail/snipsearch/cihjglhngakoifipnmlmeaankdjkbegn)  
+A **Chrome extension** to store and semantically search code snippets with **AI-powered hybrid search** — live on the Chrome Web Store.  
+
+### 🔗 [Goal Tracker](https://goaltracker-eta.vercel.app/signup)  
+A **goal tracking web app** to set, manage, and track progress toward personal goals.  
+
+### 🔗 [Salesforce Deployment Tool](https://sf-deployer.vercel.app/)  
+A tool for streamlining **Salesforce deployments**.  
+
 ### 🔗 [EduPortal](https://github.com/nabeelahmed44m/EduPortal)  
 A responsive educational management system built with **React & Tailwind CSS**.  
 
@@ -91,8 +100,8 @@ A **drag-and-drop form builder** with easy sharing and analytics.
 ### 🔗 [Low-Code Platform](https://github.com/nabeelahmed44m/low-code-platform)  
 A **low-code/no-code platform** for non-technical users.  
 
-### 🔗 [Portfolio](https://github.com/nabeelahmed44m/portfolio)  
-My **personal portfolio site** showcasing projects and skills.
+### 🔗 [Portfolio](https://nabeelcodes.vercel.app)  
+My **personal portfolio site** showcasing projects and skills — [nabeelcodes.vercel.app](https://nabeelcodes.vercel.app).
 
 > *Check out my [GitHub](https://github.com/nabeelahmed44m) for all repositories.*
 
@@ -102,6 +111,7 @@ My **personal portfolio site** showcasing projects and skills.
 
 | Platform | Link |
 |----------|------|
+| 🌐 Portfolio | [nabeelcodes.vercel.app](https://nabeelcodes.vercel.app) |
 | 💼 LinkedIn | [linkedin.com/in/nabeel-ahmed-624623187](https://www.linkedin.com/in/nabeel-ahmed-624623187/) |
 | 📧 Email | nabeelahmed44m@gmail.com |
 | 🐱 GitHub | [github.com/nabeelahmed44m](https://github.com/nabeelahmed44m) |
