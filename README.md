@@ -94,6 +94,10 @@ A tool for streamlining **Salesforce deployments**.
 ### 🔗 [Portfolio](https://nabeelcodes.vercel.app)  
 My **personal portfolio site** showcasing projects and skills — [nabeelcodes.vercel.app](https://nabeelcodes.vercel.app).
 
+### 🐝 [File Bee](https://file-bee.com)
+A fast, privacy-focused online file toolkit that lets users convert, merge, compress, sign, and edit PDFs, images, and documents directly in the browser. Most tools run client-side, reducing server load while keeping your files private.
+**🌐 Live Demo:** https://file-bee.com
+
 > *Check out my [GitHub](https://github.com/nabeelahmed44m) for all repositories.*
 
 ---
